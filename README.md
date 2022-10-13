@@ -3,3 +3,4 @@
 ## Project Setup
 ### Enable pre-commit check
 - Run the command `npm run prepare`
+- Test
